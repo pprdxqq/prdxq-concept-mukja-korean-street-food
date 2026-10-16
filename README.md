@@ -1,24 +1,22 @@
-# undefined — PRDXQ redesign concept
+# Mukja – Korean Street Food — PRDXQ redesign concept
 
-Independent, uncommissioned design concept. It is not the official website and does not imply approval or a commercial relationship.
+Independent, uncommissioned design concept. It is not the official website and does not imply endorsement or a business relationship.
 
 ## Pages
-- [Concept](index.html)
-- [Food & menu](menu.html)
-- [Find us](visit.html)
+- [Concept home](index.html)
+- [Menu concept](menu.html)
+- [Visit information](visit.html)
 
 ## Design direction
-undefined. Distinctive responsive layout with restrained glass surfaces, mobile-first navigation, reduced-motion support, semantic page structure and multi-page information architecture.
+A playful but premium take on Korean street-food culture: vivid vermilion accents, warm cream, editorial typography, and a quick path to useful visit information.
 
-## Evidence and limits
-Built around the energy of Korean street-food culture: bold color, expressive typography, and a clear path from craving to visit.
+## Research reference
+https://www.gateway-gardens.de/de/leben/
 
-Research reference: https://www.gateway-gardens.de/de/leben/
+The official Gateway Gardens directory lists Mukja – Korean Street Food in the local gastronomy section. Current menu items, prices, allergens, opening hours, contact details and exact unit location are not verified here and must not be invented.
 
-## Before official use
-Independent PRDXQ redesign concept. Not commissioned, reviewed, or endorsed by the business. Menu, hours, contact details and location-specific information require confirmation.
-
-Confirm all business facts, location-specific details, imagery rights and contact information with the business before presenting this as official. No menu, pricing, availability, hours, reviews, or booking capability is asserted as verified in this concept.
+## Important
+Independent PRDXQ redesign concept. Not commissioned, reviewed, or endorsed by the business. Menu, prices, hours, contact details, exact unit location and location-specific information require confirmation.
 
 ## Deployment
-GitHub Actions deploys the static site to GitHub Pages on pushes to `main`. Enable GitHub Pages with GitHub Actions as the build and deployment source in repository settings.
+The included GitHub Actions workflow deploys the static site to GitHub Pages on pushes to `main`. In repository settings, configure Pages to use GitHub Actions as the deployment source if not already configured.
